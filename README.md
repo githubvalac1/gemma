@@ -1,5 +1,15 @@
 # gemma
 
+         
+| key | value | 
+|:-------| -----| 
+| :alarm_clock: startTime | 2024-03-04T10:15:09.872Z | 
+| :clock1: duration | 302.154848 | 
+| :warning: flaky | 0 | 
+| :x: failed | 0 | 
+| :white_check_mark: passed | 11 | 
+/home/nlv16600 $ vi doit
+/home/nlv16600 $ ./doit
 | test | status | :alarm_clock: duration (seconds) | 
 |:-----| -------| -------------------| 
 |GHTC-1:Create a repository|:white_check_mark: |8.431 | 
@@ -13,10 +23,11 @@
 |GHTC-6:Add/Upload/Edit fileC - edit File|:white_check_mark: |14.094 | 
 |GHTC-7:Lock and Unlock a branch|:white_check_mark: |35.538 | 
 |GHTC-9:Lock and Unlock a fork|:white_check_mark: |35.462 | 
-|:-----| -------| -------------------| 
-|:-----| -------| -------------------| 
-| :alarm_clock: duration/100 | 2024-03-04T10:15:09.872Z | 
-| :clock1: starttime | 302154.848 | 
-| :warning: flaky | 0 | 
-| :x: unexpected | 0 | 
-|:-----| -------| -------------------| 
+         
+| key | value | 
+|:-------| -----| 
+| startTime :alarm_clock: | 2024-03-04T10:15:09.872Z | 
+| duration :clock1: | 302.154848 | 
+| flaky :warning: | 0 | 
+| failed :x: | 0 | 
+| passed :white_check_mark: | 11 | 
