@@ -1,7 +1,6 @@
 # gemma
 
-
-| test | status | :clock1: duration (seconds) | 
+| test | status | :alarm_clock: duration (seconds) | 
 |:-----| -------| -------------------| 
 |GHTC-1:Create a repository|:white_check_mark: |8.431 | 
 |GHTC-13:Review Pull Request from Branch|:white_check_mark: |42.384 | 
@@ -14,3 +13,10 @@
 |GHTC-6:Add/Upload/Edit fileC - edit File|:white_check_mark: |14.094 | 
 |GHTC-7:Lock and Unlock a branch|:white_check_mark: |35.538 | 
 |GHTC-9:Lock and Unlock a fork|:white_check_mark: |35.462 | 
+|:-----| -------| -------------------| 
+|:-----| -------| -------------------| 
+| :alarm_clock: duration/100 | 2024-03-04T10:15:09.872Z | 
+| :clock1: starttime | 302154.848 | 
+| :warning: flaky | 0 | 
+| :x: unexpected | 0 | 
+|:-----| -------| -------------------| 
