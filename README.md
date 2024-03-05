@@ -1,15 +1,4 @@
 # gemma
-
-         
-| key | value | 
-|:-------| -----| 
-| :alarm_clock: startTime | 2024-03-04T10:15:09.872Z | 
-| :clock1: duration | 302.154848 | 
-| :warning: flaky | 0 | 
-| :x: failed | 0 | 
-| :white_check_mark: passed | 11 | 
-/home/nlv16600 $ vi doit
-/home/nlv16600 $ ./doit
 | test | status | :alarm_clock: duration (seconds) | 
 |:-----| -------| -------------------| 
 |GHTC-1:Create a repository|:white_check_mark: |8.431 | 
